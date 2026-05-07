@@ -13,7 +13,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2921adfb-d430-4e52-b017-9ddcf67e80fb}</ProjectGuid>
+    <ProjectGuid>{8056261A-8426-48C8-9EA8-B7E1A9FDF216}</ProjectGuid>
     <RootNamespace>coroutinelewissbaker</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
